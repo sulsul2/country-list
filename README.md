@@ -1,6 +1,6 @@
 # Aplikasi Informasi Negara
 
-Aplikasi web sederhana untuk menampilkan informasi tentang negara di seluruh dunia.
+Aplikasi web sederhana untuk menampilkan informasi tentang negara di seluruh dunia dari public GraphQL endpoint https://countries.trevorblades.com/.
 
 ## Daftar Isi
 
